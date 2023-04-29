@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/booking-machine/static/css/main.957730af.css",
+    "main.js": "/booking-machine/static/js/main.21e61c9d.js",
+    "static/js/787.38285caa.chunk.js": "/booking-machine/static/js/787.38285caa.chunk.js",
+    "static/media/background-travel-2.jpg": "/booking-machine/static/media/background-travel-2.1b3bc05ab3ab53a29ab2.jpg",
+    "index.html": "/booking-machine/index.html",
+    "main.957730af.css.map": "/booking-machine/static/css/main.957730af.css.map",
+    "main.21e61c9d.js.map": "/booking-machine/static/js/main.21e61c9d.js.map",
+    "787.38285caa.chunk.js.map": "/booking-machine/static/js/787.38285caa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.957730af.css",
+    "static/js/main.21e61c9d.js"
+  ]
+}
